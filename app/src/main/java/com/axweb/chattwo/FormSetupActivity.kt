@@ -1,9 +1,8 @@
 package com.axweb.chattwo
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.axweb.chattwo.databinding.ActivityFormCadastroBinding
+import androidx.appcompat.app.AppCompatActivity
 import com.axweb.chattwo.databinding.ActivityFormSetupBinding
 
 class FormSetupActivity : AppCompatActivity() {

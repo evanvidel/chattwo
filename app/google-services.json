@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "995439075545",
+    "project_id": "chat-two-222dd",
+    "storage_bucket": "chat-two-222dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995439075545:android:d3317e218a16a925329ec8",
+        "android_client_info": {
+          "package_name": "com.axweb.chattwo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995439075545-3vpfu1qul3gg6f5tpi1s845vgqqntoq4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXPi7V9BEKPpO7UTC1o-9drMz4iv0Ti_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995439075545-3vpfu1qul3gg6f5tpi1s845vgqqntoq4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
