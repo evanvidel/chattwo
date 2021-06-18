@@ -51,6 +51,12 @@
         android:textColor="@color/purple_700"
         android:textStyle="bold"
         android:gravity="center"/>
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:visibility="gone"/>
 
 
 

@@ -1,8 +1,9 @@
-package com.axweb.chattwo
+package com.axweb.chattwo.cadastro.view
 
 import android.content.Intent
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
+import com.axweb.chattwo.FormLoginActivity
 import com.axweb.chattwo.databinding.ActivityFormSetupBinding
 
 class FormSetupActivity : AppCompatActivity() {
@@ -20,7 +21,7 @@ class FormSetupActivity : AppCompatActivity() {
     }
 
     private fun backFormLogin() {
-        startActivity(Intent(this,FormLoginActivity::class.java))
+        startActivity(Intent(this, FormLoginActivity::class.java))
         finish()
     }
 }
